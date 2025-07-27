@@ -1,0 +1,32 @@
+# Node
+node_modules/
+dist/
+*.log
+*.tmp
+
+# Local env files
+.env
+.env.*.local
+
+# Editor/IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Mac / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# Optional: TypeScript cache
+*.tsbuildinfo
+
+# Optional: build analysis
+stats.html
+
+# Optional: npm/yarn lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
