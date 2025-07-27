@@ -1,7 +1,7 @@
 export default {
   build: {
     lib: {
-      entry: 'src/main.js',
+      entry: 'src/main.jsx',
       name: 'StepPopupWidget',
       fileName: 'step-popup-widget',
       formats: ['iife'],
